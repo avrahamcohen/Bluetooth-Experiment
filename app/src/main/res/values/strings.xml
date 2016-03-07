@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name"> Bluetooth Experiment</string>
+
+    <!--List View Headlines-->
+    <string name="visibility">MAKE PHONE VISIBLE</string>
+    <string name="paired_devices">PAIRED DEVICES</string>
+
+    <!-- Menu Entries -->
+    <string name="edit_phone_name">Edit phone name</string>
+    <string name="visibility_timeout">Visibility timeout</string>
+    <string name="show_received_files">Show received files</string>
+
+    <!-- Button's -->
+    <string name="search_for_devices">Search for devices</string>
+
+    <!-- Additional Text -->
+    <string name="allow_others">Allow other Bluetooth devices to find my phone</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>
